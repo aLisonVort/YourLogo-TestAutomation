@@ -1,0 +1,109 @@
+13-Apr-2020-16:42:26,289 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:42:29,515 [INFO] [AfterTest] - Passed
+28-Feb-2021-18:18:15,266 [INFO] [BeforeTets] - Test Set Up is done
+28-Feb-2021-18:18:18,081 [INFO] [LogInfo] - The http://demo.guru99.com/test/upload/ is opened
+28-Feb-2021-18:18:18,183 [INFO] [LogInfo] - File is attached
+28-Feb-2021-18:18:18,275 [INFO] [AfterTest] - Passed
+28-Feb-2021-18:18:18,278 [INFO] [AfterTest] - Test
+28-Feb-2021-18:18:18,278 [INFO] [AfterTest] - Tests is passed
+28-Feb-2021-18:18:18,279 [INFO] [AfterTest] -  Tear down is done
+28-Feb-2021-18:18:18,284 [INFO] [BeforeTets] - Test Set Up is done
+28-Feb-2021-18:18:19,553 [INFO] [LogInfo] - The http://demo.guru99.com/test/radio.html is opened
+28-Feb-2021-18:18:22,650 [INFO] [AfterTest] - Passed
+28-Feb-2021-18:18:22,650 [INFO] [AfterTest] - Test
+28-Feb-2021-18:18:22,651 [INFO] [AfterTest] - Tests is passed
+28-Feb-2021-18:18:22,651 [INFO] [AfterTest] -  Tear down is done
+02-Mar-2021-11:55:30,276 [INFO] [AfterTest] - Passed
+02-Mar-2021-11:55:30,331 [INFO] [AfterTest] - Test
+02-Mar-2021-11:55:30,331 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-11:55:30,332 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-11:57:51,587 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-11:57:51,642 [INFO] [AfterTest] - Passed
+02-Mar-2021-11:57:51,645 [INFO] [AfterTest] - Test
+02-Mar-2021-11:57:51,646 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-11:57:51,647 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-12:42:32,173 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-12:42:32,217 [INFO] [AfterTest] - Passed
+02-Mar-2021-12:42:32,219 [INFO] [AfterTest] - Test
+02-Mar-2021-12:42:32,220 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-12:42:32,220 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:38:48,304 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-13:38:48,348 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:38:48,351 [INFO] [AfterTest] - Test
+02-Mar-2021-13:38:48,352 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:38:48,352 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:52:15,076 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateTpTopsSubSectiob("Women","Tops")
+02-Mar-2021-13:52:15,121 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:52:15,125 [INFO] [AfterTest] - Test
+02-Mar-2021-13:52:15,126 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:52:15,126 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:56:11,845 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-13:56:11,889 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:56:11,892 [INFO] [AfterTest] - Test
+02-Mar-2021-13:56:11,893 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:56:11,894 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-13:56:17,167 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-13:56:17,167 [INFO] [AfterTest] - Passed
+02-Mar-2021-13:56:17,168 [INFO] [AfterTest] - Test
+02-Mar-2021-13:56:17,168 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-13:56:17,168 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:03:27,505 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:03:27,547 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:03:27,549 [INFO] [AfterTest] - Test
+02-Mar-2021-14:03:27,550 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:03:27,550 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:03:35,152 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:03:35,153 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:03:35,153 [INFO] [AfterTest] - Test
+02-Mar-2021-14:03:35,154 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:03:35,154 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:05:33,793 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:05:33,832 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:05:33,834 [INFO] [AfterTest] - Test
+02-Mar-2021-14:05:33,834 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:05:33,835 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:05:38,898 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:05:38,899 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:05:38,899 [INFO] [AfterTest] - Test
+02-Mar-2021-14:05:38,900 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:05:38,900 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:08:50,039 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:08:50,089 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:08:50,091 [INFO] [AfterTest] - Test
+02-Mar-2021-14:08:50,091 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:08:50,091 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:08:57,350 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:08:57,351 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:08:57,351 [INFO] [AfterTest] - Test
+02-Mar-2021-14:08:57,352 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:08:57,352 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:11:09,409 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:11:09,448 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:11:09,449 [INFO] [AfterTest] - Test
+02-Mar-2021-14:11:09,450 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:11:09,450 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:11:15,405 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:11:15,405 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:11:15,406 [INFO] [AfterTest] - Test
+02-Mar-2021-14:11:15,406 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:11:15,407 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:15:16,927 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+02-Mar-2021-14:15:16,966 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:15:16,970 [INFO] [AfterTest] - Test
+02-Mar-2021-14:15:16,971 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:15:16,971 [INFO] [AfterTest] -  Tear down is completed
+02-Mar-2021-14:15:24,451 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+02-Mar-2021-14:15:24,451 [INFO] [AfterTest] - Passed
+02-Mar-2021-14:15:24,452 [INFO] [AfterTest] - Test
+02-Mar-2021-14:15:24,452 [INFO] [AfterTest] - SectionNavigation result: passed
+02-Mar-2021-14:15:24,453 [INFO] [AfterTest] -  Tear down is completed
+03-Mar-2021-20:51:16,357 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToDressesSubSection("Women","Dresses")
+03-Mar-2021-20:51:16,408 [INFO] [AfterTest] - Passed
+03-Mar-2021-20:51:16,410 [INFO] [AfterTest] - Test
+03-Mar-2021-20:51:16,410 [INFO] [AfterTest] - SectionNavigation result: passed
+03-Mar-2021-20:51:16,410 [INFO] [AfterTest] -  Tear down is completed
+03-Mar-2021-20:51:23,524 [INFO] [GetTestName] - YourLogo.UI.SectionNavigation.NavigateToTopsSubSection("Women","Tops")
+03-Mar-2021-20:51:23,524 [INFO] [AfterTest] - Passed
+03-Mar-2021-20:51:23,525 [INFO] [AfterTest] - Test
+03-Mar-2021-20:51:23,525 [INFO] [AfterTest] - SectionNavigation result: passed
+03-Mar-2021-20:51:23,525 [INFO] [AfterTest] -  Tear down is completed

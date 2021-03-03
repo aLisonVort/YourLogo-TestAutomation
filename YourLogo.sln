@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YourLogo", "YourLogo\YourLogo.csproj", "{FF4147FD-4B15-4042-937D-0367DF17F072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4147FD-4B15-4042-937D-0367DF17F072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4147FD-4B15-4042-937D-0367DF17F072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4147FD-4B15-4042-937D-0367DF17F072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4147FD-4B15-4042-937D-0367DF17F072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0B7D787-3DC7-43E8-B773-127B7F527E43}
+	EndGlobalSection
+EndGlobal

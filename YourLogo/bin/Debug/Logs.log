@@ -1,0 +1,35 @@
+13-Apr-2020-16:11:14,910 [INFO] [BeforeTets] - 13.04.2020 16:11:14
+13-Apr-2020-16:11:14,978 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:11:17,336 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:11:17,337 [INFO] [AfterTest] - Test
+13-Apr-2020-16:11:17,338 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:11:17,339 [INFO] [AfterTest] - 13.04.2020 16:11:17
+13-Apr-2020-16:11:17,339 [INFO] [AfterTest] - UploadFile is passed
+13-Apr-2020-16:11:17,359 [INFO] [BeforeTets] - 13.04.2020 16:11:17
+13-Apr-2020-16:11:17,359 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:11:21,056 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:11:21,057 [INFO] [AfterTest] - Test
+13-Apr-2020-16:11:21,057 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:11:21,064 [INFO] [AfterTest] - 13.04.2020 16:11:21
+13-Apr-2020-16:11:21,064 [INFO] [AfterTest] - SelectRadioButton is passed
+13-Apr-2020-16:23:58,935 [INFO] [BeforeTets] - 13.04.2020 16:23:58
+13-Apr-2020-16:23:58,997 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:24:03,331 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:24:03,332 [INFO] [AfterTest] - Test
+13-Apr-2020-16:24:03,338 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:24:03,339 [INFO] [AfterTest] - 13.04.2020 16:24:03
+13-Apr-2020-16:24:03,339 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-16:24:36,089 [INFO] [BeforeTets] - 13.04.2020 16:24:36
+13-Apr-2020-16:24:36,153 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:24:38,424 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:24:38,425 [INFO] [AfterTest] - Test
+13-Apr-2020-16:24:38,426 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:24:38,426 [INFO] [AfterTest] - 13.04.2020 16:24:38
+13-Apr-2020-16:24:38,427 [INFO] [AfterTest] - Tests is passed
+13-Apr-2020-16:24:38,440 [INFO] [BeforeTets] - 13.04.2020 16:24:38
+13-Apr-2020-16:24:38,440 [INFO] [BeforeTets] - Test
+13-Apr-2020-16:24:42,059 [INFO] [AfterTest] - Passed
+13-Apr-2020-16:24:42,060 [INFO] [AfterTest] - Test
+13-Apr-2020-16:24:42,060 [INFO] [AfterTest] - System.IO.TextWriter+SyncTextWriter
+13-Apr-2020-16:24:42,061 [INFO] [AfterTest] - 13.04.2020 16:24:42
+13-Apr-2020-16:24:42,061 [INFO] [AfterTest] - Tests is passed
